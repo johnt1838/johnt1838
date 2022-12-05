@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John
+- 👋 Hi, I’m Giannis.
 - 👀 I’m interested in learning, anythinh.
 - 🌱 I’m currently studying machine learning.
 - 📫 For collaboration email me.
