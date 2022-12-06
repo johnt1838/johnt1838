@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giannis.
-- 👀 I’m interested in learning, anythinh.
+- 👀 I’m interested in learning, anything.
 - 🌱 I’m currently studying machine learning.
 - 📫 For collaboration email me.
       email: gterpo@outlook.com
