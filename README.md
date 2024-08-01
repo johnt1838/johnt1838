@@ -1,7 +1,7 @@
 # Hi there, I'm Ioannis 👋
 
 ## About Me
-I'm a passionate **Software Engineer** with a broad interest in all fields of software engineering. I hold a bachelor's degree in **Computer Science and Telecommunications** and I'm currently pursuing a master's degree in **Big Data, Cybersecurity, and Simulation**.
+I'm a passionate **Software Engineer** with a broad interest in all fields in computer science. I hold a bachelor's degree in **Computer Science and Telecommunications** and I'm currently pursuing a master's degree in **Big Data, Cybersecurity, and Simulation**.
 
 ### Current Status
 I have a full-time job, but I always have the spark to learn and create new things through side projects.
