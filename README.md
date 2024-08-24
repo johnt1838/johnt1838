@@ -20,5 +20,5 @@ Feel free to reach out if you want to collaborate on any project or just want to
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnt1838&theme=radical" />
 </a>
 <a href="https://github.com/johnt1838">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnt1838&layout=donut&langs_count=8&card_width=320&theme=radical&hide_progress=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnt1838&layout=donut&langs_count=8&card_width=320&theme=radical&hide_progress=true"/>
 </a>
