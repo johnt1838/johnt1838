@@ -1,4 +1,4 @@
-# Hi there, I'm Giannis
+Hi there, I'm Giannis 👋
 
 ## About Me
 I'm a passionate **Software Engineer** with a broad interest in all fields of computer science. I hold a bachelor's degree in **Computer Science and Telecommunications** and I'm currently pursuing a master's degree in **Big Data, Cybersecurity, and Simulation**.
