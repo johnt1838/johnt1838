@@ -15,3 +15,5 @@ I'm a passionate **Software Engineer** with a broad interest in all fields of co
 [Twitter](https://twitter.com/giannisterpo)
 
 Feel free to reach out if you want to collaborate on any project or just want to say hi!
+-----------------------------
+[![Giannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnt1838)](https://github.com/johnt1838/github-readme-stats)
