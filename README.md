@@ -16,4 +16,9 @@ I'm a passionate **Software Engineer** with a broad interest in all fields of co
 
 Feel free to reach out if you want to collaborate on any project or just want to say hi!
 -----------------------------
-[![Giannis's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnt1838&show_icons=true&theme=highcontrast)](https://github.com/johnt1838/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
