@@ -17,8 +17,8 @@ I'm a passionate **Software Engineer** with a broad interest in all fields of co
 Feel free to reach out if you want to collaborate on any project or just want to say hi!
 -----------------------------
 <a href="https://github.com/c/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnt1838&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnt1838&theme=radical" />
 </a>
 <a href="https://github.com/johnt1838">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnt1838&layout=donut&langs_count=8&card_width=320&theme=highcontrast&hide_progress=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnt1838&layout=donut&langs_count=8&card_width=320&theme=radical&hide_progress=true" />
 </a>
