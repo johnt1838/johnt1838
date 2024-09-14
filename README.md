@@ -6,7 +6,7 @@ I'm a passionate **Software Engineer** with a broad interest in all fields of co
 ### Technologies & Tools
 **Web Development**: HTML, CSS, JS, TS, PHP, Django (Python), React, Tailwind CSS  
 **Automation & Machine Learning**: Python  
-**Mobile Development**: Flutter, Dart  
+**Mobile Development**: Flutter (Dart)
 **Databases**: MySQL, PostgreSQL  
 **Extended Reality (XR)**: Unity with C#, MRTK, Vuforia
 
