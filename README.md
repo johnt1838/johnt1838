@@ -1,5 +1,5 @@
 ### About Me
-I'm a passionate **Software Engineer** with a broad interest in all fields of computer science. I hold a bachelor's degree in **Computer Science and Telecommunications** and I'm currently pursuing a master's degree in **Big Data, Cybersecurity, and Simulation**.
+**Software Engineer** with a broad interest in all fields of computer science. I hold a bachelor's degree in **Computer Science and Telecommunications** and I'm currently pursuing a master's degree in **Big Data, Cybersecurity, and Simulation**.
 
 ### Technologies & Tools
 **Web Development**: HTML, CSS, JS, TS, PHP, Django (Python), React, Tailwind CSS  
